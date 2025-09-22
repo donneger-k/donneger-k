@@ -39,6 +39,12 @@
 </p>
 
 ---
+
+### 🧩 Paradigmes & Méthodologies
+- Programmation orientée objet (Java, Python, PHP)
+- Conception modulaire & bonnes pratiques
+
+---
 <!--
 ### 📌 Projet principal
 💡 **Ministock** — *Application de gestion de stocks*  
