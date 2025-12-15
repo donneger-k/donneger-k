@@ -5,8 +5,6 @@
 </p>
 -->
 
----
-
 ### 🚀 À propos de moi
 - 🎓 Étudiant en **3ème année de Licence Informatique**
 - 📚 Actuellement, je travaille sur **Ministock** *(projet de gestion de stocks)*
@@ -44,6 +42,12 @@
 ### 🧩 Paradigmes & Méthodologies
 - Programmation orientée objet (Java, Python, PHP)
 - Conception modulaire & bonnes pratiques
+
+---
+
+### 💼 Portfolio
+
+En construction...
 <!--
 ---
 
