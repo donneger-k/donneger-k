@@ -47,7 +47,8 @@
 
 ### 💼 Portfolio
 
-En construction...
+🔗 Découvrez mes projets ici :  <br>
+➡️ [Voir mon portfolio](https://github.com/donneger-k/portfolio)
 <!--
 ---
 
